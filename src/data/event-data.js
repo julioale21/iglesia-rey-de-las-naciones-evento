@@ -8,7 +8,7 @@ export const eventsDays = [
                 hour: '20:00', 
                 presenter_name: 'Sergio Bonacina', 
                 presenter_title: 'Pastor',
-                image: null
+                image: 'https://c8.alamy.com/compes/2b46fjf/gente-encontrando-cristianismo-multitud-de-personas-creyentes-gente-en-la-cruz-creyentes-que-oran-grupo-de-personas-iglesia-cristiana-culto-cristiano-2b46fjf.jpg'
             }
         ]
     },
@@ -22,7 +22,7 @@ export const eventsDays = [
                 hour: '10:00', 
                 presenter_name: 'Silvina Cruz de Bonacina', 
                 presenter_title: 'Pastora',
-                image: null
+                image: 'https://image.shutterstock.com/image-vector/workshop-blue-typography-banner-260nw-1353459113.jpg'
             },
             {
                 type: 'break',
@@ -36,7 +36,7 @@ export const eventsDays = [
                 hour: '11:30', 
                 presenter_name: 'Hernan Karpencopf', 
                 presenter_title: 'Evangelista',
-                presenter_image: null
+                image: 'https://image.shutterstock.com/image-vector/workshop-blue-typography-banner-260nw-1353459113.jpg'
             },
             {
                 type: 'break',
@@ -50,7 +50,7 @@ export const eventsDays = [
                 hour: '15:00', 
                 presenter_name: 'Tony Villegas', 
                 presenter_title: 'Pastor',
-                presenter_image: null
+                image: 'https://image.shutterstock.com/image-vector/workshop-blue-typography-banner-260nw-1353459113.jpg'
             },
             {
                 type: 'break',
@@ -64,7 +64,7 @@ export const eventsDays = [
                 hour: '16:30', 
                 presenter_name: 'Sergio Bonacina', 
                 presenter_title: 'Pastor',
-                presenter_image: null
+                image: 'https://image.shutterstock.com/image-vector/workshop-blue-typography-banner-260nw-1353459113.jpg'
             },
             {
                 type: 'break',
@@ -78,7 +78,7 @@ export const eventsDays = [
                 hour: '20:00', 
                 presenter_name: 'Hernan Karpencopf', 
                 presenter_title: 'Evangelista',
-                presenter_image: null
+                image: 'https://c8.alamy.com/compes/2b46fjf/gente-encontrando-cristianismo-multitud-de-personas-creyentes-gente-en-la-cruz-creyentes-que-oran-grupo-de-personas-iglesia-cristiana-culto-cristiano-2b46fjf.jpg'
             },
         ]
     }
